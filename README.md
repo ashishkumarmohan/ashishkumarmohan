@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ashish%20Kumar%20Mohan&fontSize=35&fontAlign=50&animation=fadeIn" />
 
-### Hi 👋, I'm Ashish — Frontend Developer | UI Engineer | React & Angular Enthusiast
+### Hi 👋, I'm Ashish — Frontend Developer | UI Engineer | React Enthusiast
 
 🔨 I craft intuitive, scalable, and fast frontends using modern technologies.  
 🎯 On a mission to master full-stack engineering and build production-grade interfaces that feel ✨ alive.  
@@ -43,7 +43,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ashishkumarmohan)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ashishkumar_m5)
-[![Portfolio - WIP ](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)]()
+[![Portfolio-WIP](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://linkedin.com/in/ashishkumarmohan)
 
 ---
 
