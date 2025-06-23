@@ -25,7 +25,7 @@
 
 ### 📦 Projects I'm Proud Of
 
-<h2 align="center"> Work In Progress </h2> 
+<h4 align="center"> Work In Progress </h4> 
 
 ---
 
@@ -41,9 +41,9 @@
 
 ### 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ashishkumarmohan)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ashishkumar_m5)
+[![Portfolio - WIP ](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)]()
 
 ---
 
